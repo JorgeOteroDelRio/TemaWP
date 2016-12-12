@@ -203,7 +203,10 @@ border-color: #585858;
 
 #content{
 	padding:0 7.5% 0 7.5% !important;
+	padding-bottom: 20px !important;
 	margin-left:10%;
+	border-right: solid 2px black;
+	border-left: solid 2px black;
 	display:inline-block;
 	min-height: 420px;
 	text-align:justify;
@@ -268,4 +271,10 @@ border-color: #585858;
 .twitter-follow-button{
 	color:black;
 }
+
+#content blockquote{
+	font-size: 30px;
+}
+
+.date{text-align: right}
 

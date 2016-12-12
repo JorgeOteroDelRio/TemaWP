@@ -1,7 +1,9 @@
 <!DOCTYPE>
 <html>
 	<head>
+		<title>El Rincón del Programador</title>
 		<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri() . '/style.css'?>">
+		<link rel="icon" type="image/ico" href="<?php echo get_template_directory_uri() . '/images/gnr_logo.png'?>"/>
 	</head>
 	<body>
 		<header>
@@ -30,7 +32,7 @@
 				
 			</div>
 			
-			<
+			
 			
 		</header>
 

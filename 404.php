@@ -1,3 +1,10 @@
+<head>
+    <style type="text/css">
+        #content{background-image:url("<?php echo get_template_directory_uri() . '/images/img404.jpg'?>");
+            background-size:100% 100%;
+        }
+    </style>
+</head>
 <?php
 get_header();
 wp_nav_menu();
